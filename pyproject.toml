@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "z7scan"
+version = "0.1.0"
+description = "AI-powered DEX memecoin scanner for Solana"
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = []
+
+[tool.setuptools.packages.find]
+include = ["z7scan*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
