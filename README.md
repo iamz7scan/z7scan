@@ -14,7 +14,7 @@ Zone 7 was the internal designation for traffic classification in network securi
 
 No feelings. No hype. Just the scan.
 
-`CA: coming soon`
+`CA: EVYtGYaLoLUsodAFoumtseJC1SnW9dZCzL63ty5apump`
 
 ---
 
